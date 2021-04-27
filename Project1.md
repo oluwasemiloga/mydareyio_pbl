@@ -30,8 +30,3 @@ Review screen
 
 ![UbuntuEC2_8](https://user-images.githubusercontent.com/20802925/116272486-d9fbbd00-a778-11eb-933d-568db44a6705.PNG)
 New Key Pair created and downloaded
-
-![UbuntuEC2_9](https://user-images.githubusercontent.com/20802925/116273041-5393ab00-a779-11eb-8eaa-5e02b8aa9989.PNG)
-Instance launched
-
-![UbuntuEC2_10](https://user-images.githubusercontent.com/20802925/116273415-a1a8ae80-a779-11eb-96fa-92b3d68a9c9e.PNG)
