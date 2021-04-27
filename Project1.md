@@ -177,6 +177,3 @@ Remove the index.php file
 ![UbuntuEC2_44](https://user-images.githubusercontent.com/20802925/116300065-594bb980-a796-11eb-834e-b1cffcc2870e.PNG)
 
 Project completed. Thank you.
-
-
-
