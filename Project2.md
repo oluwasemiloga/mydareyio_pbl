@@ -80,7 +80,7 @@ I activated the configuration by linking to the config file from Nginx’s sites
 
 ![Proj2_24](https://user-images.githubusercontent.com/20802925/116994443-a1a43380-acd0-11eb-8cd7-a80d73c98f30.PNG)
 
-I disabled the default nginx host and reloaded nginx to apply the changes. I also created and index.html file in the web root folder to test the new server block.
+I disabled the default nginx host and reloaded nginx to apply the changes. I also created an index.html file in the web root folder to test the new server block.
 
 ![Proj2_25](https://user-images.githubusercontent.com/20802925/116994783-11b2b980-acd1-11eb-80fc-212587683e54.PNG)
 
@@ -112,7 +112,7 @@ To carry out step 6, I connected back into MySQL
 
 I created a database using a different database name from the one in the instruction.
 
-![Proj2_30](https://user-images.githubusercontent.com/20802925/116997495-c4384b80-acd4-11eb-9165-ce8f59e7429e.PNG)
+![Proj2_32](https://user-images.githubusercontent.com/20802925/117002612-af12eb00-acdb-11eb-8ff4-f060940723f8.PNG)
 
 I created a user and modified the password from the one used in the instructions and granted database permission to the user. Then I exited MySQL.
 
@@ -126,9 +126,45 @@ I confirmed that the user had access to the database.
 
 ![Proj2_38](https://user-images.githubusercontent.com/20802925/116998426-19289180-acd6-11eb-9a9b-684871832be4.PNG)
 
-I attempted to create the test table but encountered some errors.
+I attempted to create the test table but encountered some errors. I realized that I had to update the test table name to reflect my database name, which is proj2_database. When I did this I was ble to create the table successfully.
 
 ![Proj2_40](https://user-images.githubusercontent.com/20802925/116999038-019dd880-acd7-11eb-857e-099d296738a1.PNG)
+
+I inserted some rows of content into the test table. I confirmed that the data was successfully saved to the table by running the select command.
+
+![Proj2_41](https://user-images.githubusercontent.com/20802925/116999714-eb444c80-acd7-11eb-8d50-bc2ef6f03005.PNG)
+
+![Proj2_42](https://user-images.githubusercontent.com/20802925/116999722-ee3f3d00-acd7-11eb-966e-698c78bfebde.PNG)
+
+I exited MySQL.
+
+![Proj2_43](https://user-images.githubusercontent.com/20802925/117000560-272be180-acd9-11eb-8d7a-827243c02e77.PNG)
+
+I created a new PHP file and copied the script provided in the instructions into my PHP file. After I saved and closed the file I attempted to access the page in my browser.I got an error.
+
+![Proj2_45](https://user-images.githubusercontent.com/20802925/117001265-0748ed80-acda-11eb-906a-8f27adedf7b6.PNG)
+
+I realized that I had to update the values in the PHP file to reflect the values I used when creating the database.
+
+![Proj2_46](https://user-images.githubusercontent.com/20802925/117001632-7f171800-acda-11eb-98d5-2435f74e3f11.PNG)
+
+![Proj2_48](https://user-images.githubusercontent.com/20802925/117001649-82120880-acda-11eb-989b-fd83ed484c4c.PNG)
+
+I was then able to successfully access the page.
+
+![Proj2_50](https://user-images.githubusercontent.com/20802925/117001775-ab329900-acda-11eb-8dec-2ee6e51e02f0.PNG)
+
+Project complete.Thank you.
+
+
+
+
+
+
+
+
+
+
 
 
 
