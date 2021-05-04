@@ -100,6 +100,43 @@ I then accessed the page via my browser by appending /info.php to the public IP 
 
 ![Proj2_29](https://user-images.githubusercontent.com/20802925/116996477-635c4380-acd3-11eb-880b-47f62c3d9bb7.PNG)
 
+The info.php file was then removed.
+
+![Proj2_30](https://user-images.githubusercontent.com/20802925/116997031-2a709e80-acd4-11eb-9b01-26c9a7176ee6.PNG)
+
+## Step 6 — Retrieving data from MySQL database with PHP
+
+To carry out step 6, I connected back into MySQL
+
+![Proj2_31](https://user-images.githubusercontent.com/20802925/116997271-7de2ec80-acd4-11eb-87c7-e9dab3cdd319.PNG)
+
+I created a database using a different database name from the one in the instruction.
+
+![Proj2_30](https://user-images.githubusercontent.com/20802925/116997495-c4384b80-acd4-11eb-9165-ce8f59e7429e.PNG)
+
+I created a user and modified the password from the one used in the instructions and granted database permission to the user. Then I exited MySQL.
+
+![Proj2_36](https://user-images.githubusercontent.com/20802925/116998041-8c7dd380-acd5-11eb-80be-131030ca3516.PNG)
+
+I tested the new user's permissions by logging back into MySQL using the user credentials created earlier.
+
+![Proj2_37](https://user-images.githubusercontent.com/20802925/116998257-d797e680-acd5-11eb-92ab-dd8c89fca43d.PNG)
+
+I confirmed that the user had access to the database.
+
+![Proj2_38](https://user-images.githubusercontent.com/20802925/116998426-19289180-acd6-11eb-9a9b-684871832be4.PNG)
+
+I attempted to create the test table but encountered some errors.
+
+![Proj2_40](https://user-images.githubusercontent.com/20802925/116999038-019dd880-acd7-11eb-857e-099d296738a1.PNG)
+
+
+
+
+
+
+
+
 
 
 
