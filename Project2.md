@@ -80,3 +80,31 @@ I activated the configuration by linking to the config file from Nginx’s sites
 
 ![Proj2_24](https://user-images.githubusercontent.com/20802925/116994443-a1a43380-acd0-11eb-8cd7-a80d73c98f30.PNG)
 
+I disabled the default nginx host and reloaded nginx to apply the changes. I also created and index.html file in the web root folder to test the new server block.
+
+![Proj2_25](https://user-images.githubusercontent.com/20802925/116994783-11b2b980-acd1-11eb-80fc-212587683e54.PNG)
+
+I opened the website using the IP address.
+
+![Proj2_26](https://user-images.githubusercontent.com/20802925/116995152-9bfb1d80-acd1-11eb-9a93-cfdcafe6d1af.PNG)
+
+## Step 5 – Testing PHP with Nginx
+
+I proceeded to test to validate nginx handling of .php files by creating a test PHP file and configuring it as directed.
+
+![Proj2_27](https://user-images.githubusercontent.com/20802925/116996117-da450c80-acd2-11eb-9692-8a092236cadc.PNG)
+
+![Proj2_28](https://user-images.githubusercontent.com/20802925/116996442-50497380-acd3-11eb-9249-adc3ac4c673d.PNG)
+
+I then accessed the page via my browser by appending /info.php to the public IP address of the server.
+
+![Proj2_29](https://user-images.githubusercontent.com/20802925/116996477-635c4380-acd3-11eb-880b-47f62c3d9bb7.PNG)
+
+
+
+
+
+
+
+
+
