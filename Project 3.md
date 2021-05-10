@@ -38,4 +38,13 @@ I installed Node.js using the appropriate commands
 
 ![Proj3_12](https://user-images.githubusercontent.com/20802925/117699663-0245db80-b1bd-11eb-8267-67d4ffd56350.PNG)
 
+Node.js & npm installation verified.
+
+![Proj3_13](https://user-images.githubusercontent.com/20802925/117700096-7da78d00-b1bd-11eb-97a4-281b6f69d660.PNG)
+
+# Application Code Setup
+
+I created a new directory called Todo, verified the directory with the ls command and then changed into the new directory with the cd command.
+
+![Proj3_15](https://user-images.githubusercontent.com/20802925/117702062-f0196c80-b1bf-11eb-87c2-b9fa1b83c27d.PNG)
 
