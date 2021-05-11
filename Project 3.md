@@ -124,6 +124,39 @@ I created the .env file and opened it to add the database connection string.
 
 ![Proj3_41](https://user-images.githubusercontent.com/20802925/117882121-ea945300-b2a1-11eb-9844-4ea7aabb2291.PNG)
 
+I then updated the index.js file with the code provided
+
+![Proj3_42](https://user-images.githubusercontent.com/20802925/117883452-56c38680-b2a3-11eb-8c08-7cd359689eaa.PNG)
+
+![Proj3_43](https://user-images.githubusercontent.com/20802925/117883464-588d4a00-b2a3-11eb-8207-62ff0ebd6654.PNG)
+
+I proceeded to start my server using the node index. js command. I was unable to connect to my database and got an error message.
+
+![Proj3_44](https://user-images.githubusercontent.com/20802925/117884232-465fdb80-b2a4-11eb-8cc8-6e0af8b88a1c.PNG)
+
+I decided to see if I could find a way to resolve the error so I performed a google search using the text from the error message.
+
+![Proj3_50](https://user-images.githubusercontent.com/20802925/117884676-d56cf380-b2a4-11eb-8b91-4e1726972532.PNG)
+
+![Proj3_51](https://user-images.githubusercontent.com/20802925/117884684-d7cf4d80-b2a4-11eb-9f59-a7aa6912d61f.PNG)
+
+One of the solutions suggested a password update of the database using the autogenerate password function so I tried that.
+
+![Proj3_46](https://user-images.githubusercontent.com/20802925/117885027-372d5d80-b2a5-11eb-9e8f-d22b749df7ac.PNG)
+
+![Proj3_47](https://user-images.githubusercontent.com/20802925/117885033-38f72100-b2a5-11eb-8618-e1f09641156d.PNG)
+
+![Proj3_48](https://user-images.githubusercontent.com/20802925/117885036-3b597b00-b2a5-11eb-8098-90c7aaad1f58.PNG)
+
+I then updated my connection string in the .env file. I ran the node index.js command again and was able to connect successfully to the database :)
+
+![Proj3_49](https://user-images.githubusercontent.com/20802925/117885412-bf136780-b2a5-11eb-8abd-3435db698c21.PNG)
+
+![Proj3_45](https://user-images.githubusercontent.com/20802925/117885416-c175c180-b2a5-11eb-9571-79d385270362.PNG)
+
+
+
+
 
 
 
