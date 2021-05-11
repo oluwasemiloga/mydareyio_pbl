@@ -48,3 +48,51 @@ I created a new directory called Todo, verified the directory with the ls comman
 
 ![Proj3_15](https://user-images.githubusercontent.com/20802925/117702062-f0196c80-b1bf-11eb-87c2-b9fa1b83c27d.PNG)
 
+I ran the npm init command to initialize the project and create the package.json file.
+
+![Proj3_16](https://user-images.githubusercontent.com/20802925/117870593-36d89680-b294-11eb-91ef-e7676c1b4c53.PNG)
+
+# Install ExpressJS
+
+Install express
+
+![Proj3_17](https://user-images.githubusercontent.com/20802925/117870873-9afb5a80-b294-11eb-82fe-a2f9269282f4.PNG)
+
+I created the index.js file.
+
+![Proj3_18](https://user-images.githubusercontent.com/20802925/117870989-c3835480-b294-11eb-8170-ad3038e629cc.PNG)
+
+I installed the dotenv module.
+
+![Proj3_19](https://user-images.githubusercontent.com/20802925/117872447-946de280-b296-11eb-96b9-d3543478fb6d.PNG)
+
+I opened the index.js file using vim and pasted in the code provided.
+
+![Proj3_20](https://user-images.githubusercontent.com/20802925/117874288-ad779300-b298-11eb-97f8-81df19f8762c.PNG)
+
+I ran the node index.js command but didn't get the output specifying port 5000. I played around with the code a few times which still didn't work. Eventually I went into the index.js file again and deleted and recopied the code and it worked as expected. I edited my security group inbound rules to open TCP port 5000. Browser access using the public IP address was also successful.
+
+![Proj3_24](https://user-images.githubusercontent.com/20802925/117875099-b026b800-b299-11eb-8195-02b1386b86e0.PNG)
+
+![Proj3_25](https://user-images.githubusercontent.com/20802925/117875498-25928880-b29a-11eb-8fe0-27f0aac14337.PNG)
+
+# Routes
+
+I created the routes directory.
+
+![Proj3_26](https://user-images.githubusercontent.com/20802925/117875966-b23d4680-b29a-11eb-8c00-8154ce10087a.PNG)
+
+I changed into the routes directory and created the api.js file.
+
+![Proj3_27](https://user-images.githubusercontent.com/20802925/117876142-eca6e380-b29a-11eb-9b9c-2d4319e8cab4.PNG)
+
+
+
+
+
+
+
+
+
+
+
