@@ -86,6 +86,29 @@ I changed into the routes directory and created the api.js file.
 
 ![Proj3_27](https://user-images.githubusercontent.com/20802925/117876142-eca6e380-b29a-11eb-9b9c-2d4319e8cab4.PNG)
 
+I opened the api.js file and copied in the code.
+
+![Proj3_28](https://user-images.githubusercontent.com/20802925/117876380-3bed1400-b29b-11eb-980d-c64e3dcd7c42.PNG)
+
+![Proj3_29](https://user-images.githubusercontent.com/20802925/117876391-3e4f6e00-b29b-11eb-97b4-15e6c47b1e74.PNG)
+
+# Models
+
+I changed back to the Todo folder and installed Mongoose.
+
+![Proj3_30](https://user-images.githubusercontent.com/20802925/117876679-90908f00-b29b-11eb-928d-a88b05e5b816.PNG)
+
+The new models directory and todo.js file were created.
+
+![Proj3_31](https://user-images.githubusercontent.com/20802925/117877103-0bf24080-b29c-11eb-9515-66005880dc2f.PNG)
+
+I opened the todo.js file and pasted in the provided code.
+
+![Proj3_32](https://user-images.githubusercontent.com/20802925/117877386-64c1d900-b29c-11eb-8f86-a778f1c66cf9.PNG)
+
+![Proj3_33](https://user-images.githubusercontent.com/20802925/117877394-67bcc980-b29c-11eb-9149-d96da6924cf4.PNG)
+
+
 
 
 
