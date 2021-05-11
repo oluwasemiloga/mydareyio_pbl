@@ -106,7 +106,25 @@ I opened the todo.js file and pasted in the provided code.
 
 ![Proj3_32](https://user-images.githubusercontent.com/20802925/117877386-64c1d900-b29c-11eb-8f86-a778f1c66cf9.PNG)
 
-![Proj3_33](https://user-images.githubusercontent.com/20802925/117877394-67bcc980-b29c-11eb-9149-d96da6924cf4.PNG)
+![Proj3_99](https://user-images.githubusercontent.com/20802925/117879879-5d4fff00-b29f-11eb-91a6-6759669bca74.PNG)
+
+I updated the api.js file with the code provided to make use of the new model.
+
+![Proj3_33](https://user-images.githubusercontent.com/20802925/117880342-e7986300-b29f-11eb-8c0e-ebc0829a99f3.PNG)
+
+# MongoDB Database
+
+I created the MongoDB database following the instructions and retrieved the connection string.
+
+![Proj3_36](https://user-images.githubusercontent.com/20802925/117881648-65a93980-b2a1-11eb-953b-92cda4cba158.PNG)
+
+I created the .env file and opened it to add the database connection string.
+
+![Proj3_40](https://user-images.githubusercontent.com/20802925/117882032-d4869280-b2a1-11eb-801b-77ec8c9da819.PNG)
+
+![Proj3_41](https://user-images.githubusercontent.com/20802925/117882121-ea945300-b2a1-11eb-9844-4ea7aabb2291.PNG)
+
+
 
 
 
