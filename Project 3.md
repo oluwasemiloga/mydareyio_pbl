@@ -154,6 +154,146 @@ I then updated my connection string in the .env file. I ran the node index.js co
 
 ![Proj3_45](https://user-images.githubusercontent.com/20802925/117885416-c175c180-b2a5-11eb-9571-79d385270362.PNG)
 
+# Testing Backend Code without Frontend using RESTful API
+
+I downloaded and installed postman.
+
+![Proj3_52](https://user-images.githubusercontent.com/20802925/117886163-b4a59d80-b2a6-11eb-9ecd-fa38d87225f2.PNG)
+
+I created a post request to the API.
+
+![Proj3_53](https://user-images.githubusercontent.com/20802925/117886378-051cfb00-b2a7-11eb-8377-2469d8c436ac.PNG)
+
+![Proj3_54](https://user-images.githubusercontent.com/20802925/117886387-077f5500-b2a7-11eb-8401-964e5c7bed66.PNG)
+
+I then created a get request and received a response.
+
+![Proj3_56](https://user-images.githubusercontent.com/20802925/117886989-ebc87e80-b2a7-11eb-80cc-9cedfaa93b3d.PNG)
+
+![Proj3_57](https://user-images.githubusercontent.com/20802925/117886992-ee2ad880-b2a7-11eb-97a1-5d18fc2c3969.PNG)
+
+I attempted the optional task of sending a DELETE request using the ID and was able to do so successfully. I ran the GET request again and saw that the entry had been removed.
+
+![Proj3_58](https://user-images.githubusercontent.com/20802925/117887597-e28be180-b2a8-11eb-9170-90c517022ba5.PNG)
+
+![Proj3_59](https://user-images.githubusercontent.com/20802925/117887601-e455a500-b2a8-11eb-9416-848c9d030862.PNG)
+
+![Proj3_60](https://user-images.githubusercontent.com/20802925/117887605-e6b7ff00-b2a8-11eb-8a74-c472763fd6d8.PNG)
+
+# Step 2 - Frontend creation
+
+I ran the create-react-app command. The client folder was also created.
+
+![Proj3_61](https://user-images.githubusercontent.com/20802925/117888006-73fb5380-b2a9-11eb-9b69-d4e37b5359c1.PNG)
+
+![Proj3_63](https://user-images.githubusercontent.com/20802925/117888304-c63c7480-b2a9-11eb-8070-02429a869451.PNG)
+
+# Running a React App
+
+Concurrently and nodemon were installed.
+
+![Proj3_64](https://user-images.githubusercontent.com/20802925/117888536-216e6700-b2aa-11eb-9cf0-a7bfa2ce2db1.PNG)
+
+![Proj3_65](https://user-images.githubusercontent.com/20802925/117888540-23d0c100-b2aa-11eb-8307-3933392db217.PNG)
+
+![Proj3_66](https://user-images.githubusercontent.com/20802925/117888548-26331b00-b2aa-11eb-9384-397b5aa26b42.PNG)
+
+![Proj3_67](https://user-images.githubusercontent.com/20802925/117888554-28957500-b2aa-11eb-8bc5-f88a91c2193f.PNG)
+
+In my Todo folder I opened the package.json file and modified the code as directed.
+
+![Proj3_68](https://user-images.githubusercontent.com/20802925/117888816-8629c180-b2aa-11eb-8c82-49ea29df0273.PNG)
+
+![Proj3_69](https://user-images.githubusercontent.com/20802925/117888824-87f38500-b2aa-11eb-9761-44cf62883ba6.PNG)
+
+
+# Configure Proxy in package.json
+
+I changed to the client directory and opened the package.json file and added the key value pair as directed to enable browser access. I opened a TCP port 3000 on my security group inbound rules.
+
+![Proj3_70](https://user-images.githubusercontent.com/20802925/117889595-bf166600-b2ab-11eb-843a-9ae0d324f754.PNG)
+
+![Proj3_71](https://user-images.githubusercontent.com/20802925/117889601-c2115680-b2ab-11eb-8455-95bb24b0146c.PNG)
+
+![Proj3_72](https://user-images.githubusercontent.com/20802925/117889802-0997e280-b2ac-11eb-927f-d08f8941995f.PNG)
+
+I ran the npm run dev command but it failed to execute and I received some error messages. I watched the project 3 implementation video and discoverd that I had placed the key value pair in the package.json file in the wrong position. When I adjusted this my npm run dev command executed successfully.
+
+![Proj3_73](https://user-images.githubusercontent.com/20802925/117890719-9d1de300-b2ad-11eb-99e1-e7f1faeec73c.PNG)
+
+![Proj3_74](https://user-images.githubusercontent.com/20802925/117891012-14ec0d80-b2ae-11eb-8692-388c217d35dc.PNG)
+
+![Proj3_93](https://user-images.githubusercontent.com/20802925/117891019-19b0c180-b2ae-11eb-8cb1-267105fa3a56.PNG)
+
+![Proj3_95](https://user-images.githubusercontent.com/20802925/117891028-1d444880-b2ae-11eb-9bec-7e8993336597.PNG)
+
+![Proj3_81](https://user-images.githubusercontent.com/20802925/117891170-58df1280-b2ae-11eb-939b-c7defbbe86a4.PNG)
+
+# Creating your React Components
+
+From the src directory in the client directory, I created the components folder. I then created three files Input.js, ListTodo.js and Todo.js.
+
+![Proj3_76](https://user-images.githubusercontent.com/20802925/117891646-2e418980-b2af-11eb-8ed8-e15015f48241.PNG)
+
+In the input.js the provided code was pasted.
+
+![Proj3_77](https://user-images.githubusercontent.com/20802925/117891822-8082aa80-b2af-11eb-804c-f9eb8b9f75d3.PNG)
+
+Axios was installed from the client folder.
+
+![Proj3_79](https://user-images.githubusercontent.com/20802925/117892145-174f6700-b2b0-11eb-8185-4d8f5a544b74.PNG)
+
+![Proj3_82](https://user-images.githubusercontent.com/20802925/117892234-3b12ad00-b2b0-11eb-8d9c-c2784949b62c.PNG)
+
+From the components directory I opened the ListTodo.js file and pasted the code as directed.
+
+![Proj3_83](https://user-images.githubusercontent.com/20802925/117892374-86c55680-b2b0-11eb-9940-ccc3b231599a.PNG)
+
+![Proj3_84](https://user-images.githubusercontent.com/20802925/117892377-8927b080-b2b0-11eb-8c2e-8da363eb9cdb.PNG)
+
+The Todo.js file was also modified with the code provided.
+
+![Proj3_85](https://user-images.githubusercontent.com/20802925/117892573-e28fdf80-b2b0-11eb-84c2-da47734fc35f.PNG)
+
+![Proj3_86](https://user-images.githubusercontent.com/20802925/117892579-e4f23980-b2b0-11eb-8b74-87a98f93ecd7.PNG)
+
+From the src folder, the App.js file was modified as directed.
+
+![Proj3_87](https://user-images.githubusercontent.com/20802925/117892724-2551b780-b2b1-11eb-9997-b49611028944.PNG)
+
+![Proj3_88](https://user-images.githubusercontent.com/20802925/117892737-2b479880-b2b1-11eb-8420-ba7fcbdd26ef.PNG)
+
+The App.css and index.css files are also modified as directed.
+
+![Proj3_89](https://user-images.githubusercontent.com/20802925/117892937-73ff5180-b2b1-11eb-901c-f4093d222726.PNG)
+
+![Proj3_90](https://user-images.githubusercontent.com/20802925/117892941-75c91500-b2b1-11eb-8da4-4503e3a82a2b.PNG)
+
+![Proj3_91](https://user-images.githubusercontent.com/20802925/117892953-7792d880-b2b1-11eb-8641-43cd5035d71f.PNG)
+
+![Proj3_92](https://user-images.githubusercontent.com/20802925/117892956-795c9c00-b2b1-11eb-9ba2-c050b7b1130a.PNG)
+
+Going back to the Todo directory, the npm run dev command is executed. Update ToDo list.
+
+![Proj3_100](https://user-images.githubusercontent.com/20802925/117895674-c98a2d00-b2b6-11eb-9753-737598cac16d.PNG)
+
+Project completed. Thank you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
