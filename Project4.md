@@ -53,3 +53,17 @@ Add the server.js file
 
 ![image](https://user-images.githubusercontent.com/20802925/129454743-c399d6ff-3a96-4b72-a026-96bda69b5246.png)
 
+## Install Express and Set Up Routes
+Install Express & Mongoose
+
+![image](https://user-images.githubusercontent.com/20802925/129454998-1d1d459b-c21b-4774-b47d-2c758c866d69.png)
+
+Create apps directory, change into apps directory & create routes file
+
+![image](https://user-images.githubusercontent.com/20802925/129455184-3e2fbd0e-7047-453a-9904-7b081a7cc36f.png)
+
+![image](https://user-images.githubusercontent.com/20802925/129455217-db6d715e-f5d8-42d6-9bf8-9982688f7c5c.png)
+
+
+
+
