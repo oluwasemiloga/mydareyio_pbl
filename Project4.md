@@ -19,3 +19,22 @@ sudo apt upgrade
 
 ![image](https://user-images.githubusercontent.com/20802925/129451263-0d7da271-a591-45c0-8542-12073d382955.png)
 
+nodejs installed
+
+![image](https://user-images.githubusercontent.com/20802925/129451384-4a4e358f-d216-4bf7-8c58-3716c29970b3.png)
+
+Install MongoDB
+
+![image](https://user-images.githubusercontent.com/20802925/129451682-b0f94b30-5fd5-4a04-9364-03d6d5b8aad3.png)
+
+![image](https://user-images.githubusercontent.com/20802925/129451830-d2a4e6c5-bb2f-49f9-884c-742caba0096f.png)
+
+Start and check status of MongoDB
+
+![image](https://user-images.githubusercontent.com/20802925/129451905-60fc5e2f-2d5c-4577-aea2-c16d0494027f.png)
+
+Install npm
+
+![image](https://user-images.githubusercontent.com/20802925/129451950-aa636113-3c66-4804-a6dc-cfcc2f4b4771.png)
+
+![image](https://user-images.githubusercontent.com/20802925/129452286-4151ce7a-5131-46d0-b1a5-88e7ef951412.png)
