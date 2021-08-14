@@ -38,3 +38,13 @@ Install npm
 ![image](https://user-images.githubusercontent.com/20802925/129451950-aa636113-3c66-4804-a6dc-cfcc2f4b4771.png)
 
 ![image](https://user-images.githubusercontent.com/20802925/129452286-4151ce7a-5131-46d0-b1a5-88e7ef951412.png)
+
+Install body-parser & create new directory
+
+![image](https://user-images.githubusercontent.com/20802925/129452490-5093b40e-fd39-4b15-b7df-798165ca0f35.png)
+
+Initialize npm project
+
+![image](https://user-images.githubusercontent.com/20802925/129453539-b3bbbd77-4eb9-46e3-8fcb-16aae2f3cece.png)
+
+
