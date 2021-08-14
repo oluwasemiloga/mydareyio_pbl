@@ -64,6 +64,11 @@ Create apps directory, change into apps directory & create routes file
 
 ![image](https://user-images.githubusercontent.com/20802925/129455217-db6d715e-f5d8-42d6-9bf8-9982688f7c5c.png)
 
+Create models folder and book.js file
+
+![image](https://user-images.githubusercontent.com/20802925/129455314-8b29788f-4647-4ffb-9b86-3248462e3bc2.png)
+
+![image](https://user-images.githubusercontent.com/20802925/129455338-83b6c645-7e24-4a7e-a58c-7d0fcbe94450.png)
 
 
 
