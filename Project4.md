@@ -81,4 +81,17 @@ Create index.html file
 
 ![image](https://user-images.githubusercontent.com/20802925/129455572-4a19fbec-01c6-4609-90d9-1adc6fac6495.png)
 
+Open TCP port 3300 in the AWS console
+
+![image](https://user-images.githubusercontent.com/20802925/129455747-f4063b29-d639-4976-a8fa-1c31fc30a449.png)
+
+Start the server
+
+![image](https://user-images.githubusercontent.com/20802925/129456685-5adff999-9b0b-4f64-b22e-357864856d73.png)
+
+Access thw Book Register web application
+
+![image](https://user-images.githubusercontent.com/20802925/129456722-bcdc6dcd-59a9-4a68-a281-d52106dabda8.png)
+
+Project complete. Thank you
 
