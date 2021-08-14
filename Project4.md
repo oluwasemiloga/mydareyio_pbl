@@ -47,4 +47,9 @@ Initialize npm project
 
 ![image](https://user-images.githubusercontent.com/20802925/129453539-b3bbbd77-4eb9-46e3-8fcb-16aae2f3cece.png)
 
+Add the server.js file
+
+![image](https://user-images.githubusercontent.com/20802925/129454728-aea4811c-7c4e-473c-ac38-5cf0bac8c86b.png)
+
+![image](https://user-images.githubusercontent.com/20802925/129454743-c399d6ff-3a96-4b72-a026-96bda69b5246.png)
 
