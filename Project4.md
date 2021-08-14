@@ -70,5 +70,15 @@ Create models folder and book.js file
 
 ![image](https://user-images.githubusercontent.com/20802925/129455338-83b6c645-7e24-4a7e-a58c-7d0fcbe94450.png)
 
+## Access the routes with AngularJS
+Create the folder name public and the file named script.js
+
+![image](https://user-images.githubusercontent.com/20802925/129455444-e1bfdb86-34b0-4fe4-a789-aaace0f57918.png)
+
+![image](https://user-images.githubusercontent.com/20802925/129455486-80370252-ae8a-4a21-98fd-bbd492dcc2e3.png)
+
+Create index.html file
+
+![image](https://user-images.githubusercontent.com/20802925/129455572-4a19fbec-01c6-4609-90d9-1adc6fac6495.png)
 
 
