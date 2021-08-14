@@ -11,3 +11,11 @@ I use MobaXterm to connect to my EC2 Instance
 
 ![image](https://user-images.githubusercontent.com/20802925/129450930-b2b9f620-eb63-482a-95f8-e0f2e4faa4b7.png)
 
+I ran sudo apt update
+
+![image](https://user-images.githubusercontent.com/20802925/129451143-b2649fba-c77b-4269-84db-76574837fe38.png)
+
+sudo apt upgrade
+
+![image](https://user-images.githubusercontent.com/20802925/129451263-0d7da271-a591-45c0-8542-12073d382955.png)
+
